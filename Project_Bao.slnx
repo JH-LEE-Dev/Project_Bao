@@ -1,0 +1,5 @@
+﻿<Solution>
+  <Project Path="VFolders.csproj" />
+  <Project Path="Wingman.csproj" />
+  <Project Path="VHierarchy.csproj" />
+</Solution>
